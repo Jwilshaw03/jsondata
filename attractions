@@ -1,6 +1,6 @@
 [
     {
-        "rideName":"super train",
+        "rideName":"Super Train",
         "ridePic":"https://raw.githubusercontent.com/Jwilshaw03/jsondata/main/train.png",
         "rideDate":"1998",
         "rideDescription":"Tour around Robert's Rodeo on the super train, suitable for the whole family! ",
@@ -12,5 +12,19 @@
         "rideDate":"2005",
         "rideDescription":"Enjoy our flower garden spanning 400 feet consisting of 30 different variations of flowers!",
         "rideType":"Garden"
+    },
+    {
+        "rideName":"Robert's Wheel",
+        "ridePic":"https://raw.githubusercontent.com/Jwilshaw03/jsondata/main/wheel.png",
+        "rideDate":"2012",
+        "rideDescription":"View the beautiful surrounding mountains on Robert's wheel with a peak altitude of 180 feet",
+        "rideType":"Coaster"
+    },
+      {
+        "rideName":"Flash",
+        "ridePic":"https://raw.githubusercontent.com/Jwilshaw03/jsondata/main/flash.png",
+        "rideDate":"1999",
+        "rideDescription":"Blast up to 95KM/H on the flash coaster",
+        "rideType":"Coaster"
     }
 ]
