@@ -1,16 +1,16 @@
 [
     {
-        "rideName":"Falcor",
-        "ridePic":"https://fi67.github.io/JsonData/images/falcor.jpg",
-        "rideDate":"8",
-        "rideDescription":"dog",
-        "rideType":"Cross Breed Collie"
+        "rideName":"super train",
+        "ridePic":"https://raw.githubusercontent.com/Jwilshaw03/jsondata/main/train.png",
+        "rideDate":"1998",
+        "rideDescription":"Tour around Robert's Rodeo on the super train, suitable for the whole family! ",
+        "rideType":"Coaster"
     },
     {
-        "rideName":"Falcor",
-        "ridePic":"https://fi67.github.io/JsonData/images/falcor.jpg",
-        "rideDate":"8",
-        "rideDescription":"dog",
-        "rideType":"Cross Breed Collie"
+        "rideName":"Flower garden",
+        "ridePic":"https://raw.githubusercontent.com/Jwilshaw03/jsondata/main/flowergarden.png",
+        "rideDate":"2005",
+        "rideDescription":"Enjoy our flower garden spanning 400 feet consisting of 30 different variations of flowers!",
+        "rideType":"Garden"
     }
 ]
